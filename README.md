@@ -11,6 +11,7 @@ To compare the performance of traditional ML algorithms in medical dataset class
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 - Logistic Regression
+- K-Means
 
 ## Dataset
 PCOS dataset containing hormonal and clinical parameters.
